@@ -1,5 +1,3 @@
-![title](flightprice.jpg)
-# MachineHack-2019-Flight-Price-Prediction-Hackathon
 
 ## Introduction: 
 
@@ -36,12 +34,3 @@ Additional_Info: Additional information about the flight
 
 Price: The price of the ticket
 A regression problem in which duration, source, destination, dates of flight and route are provided
-
-## Leaderboard
-* **Public LB : 76th Rank**
-
-### Link to hackathon
-https://www.machinehack.com/course/predict-the-flight-ticket-price-hackathon/
-
-#### Public Profile
-https://github.com/smhatre59
